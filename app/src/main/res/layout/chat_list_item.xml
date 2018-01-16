@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/pregunta_txtView"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¿Debería tomar un tequila?"
+        android:gravity="left"
+        android:background="#FAFAFA"
+        android:textSize="16sp"
+        />
+    <TextView
+        android:id="@+id/respuesta_txtView"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:background="@color/colorClouds"
+
+        android:textSize="16sp"
+        />
+</LinearLayout>

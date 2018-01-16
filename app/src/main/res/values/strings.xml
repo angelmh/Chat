@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Question Chat</string>
+    <string name="Eviar">Enviar</string>
+    <string name="Msj_EditText">Escribe pregunta</string>
+</resources>
